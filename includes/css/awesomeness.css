@@ -3,7 +3,16 @@
   font-size: 70px;
   font-weight: ;
   margin-bottom: 3%;
+}
 
-};
+.span2 {
+	background: white;
+	border: 1px solid black;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
 
-
+img {
+	height: 150px;
+	max-height: 150px;
+	max-width: 150px;
+}
